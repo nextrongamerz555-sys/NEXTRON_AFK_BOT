@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NEXTRON_SMP555.aternos.me",
+    "port": 44191,
     "version": "",
     "try-creative": false
   },
